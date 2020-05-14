@@ -6,7 +6,7 @@ Author:3gstudent
 
 Reference:https://github.com/RDPUploader/RDPUploader
 
-**Note:The .NET Framework must support TLSv1.2.**
+**Note:The .NET Framework must support TLSv1.2.It is recommended to compile on .NET Framework 4.6**
 
 Usage:
 
